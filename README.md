@@ -7,3 +7,5 @@
 #### fourth test: to make sure 70 works fine for grade F
 #### fifth test: to make sure 101 works fine for grade F
 #### final test: to make sure 100 works fine for grade A
+# Results
+![screenshot](screenshot.png)
