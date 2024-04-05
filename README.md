@@ -8,5 +8,6 @@
 #### fifth test: to make sure 101 works fine for grade F
 #### final test: to make sure 100 works fine for grade A
 # Results
-![tests](https://github.com/Faisalaqab/StudentGrade/assets/164688886/43175416-1fd6-401d-96a1-3f086816d88d)
+![Uploading tests.png…]()
+
 
